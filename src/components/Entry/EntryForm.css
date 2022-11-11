@@ -1,0 +1,41 @@
+.formWrapper {
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+  color: white;
+  background-color: cornflowerblue;
+  padding: 15px 0px;
+}
+
+label {
+  display: block;
+}
+
+form:last-child {
+  margin-bottom: 0px;
+  border: none;
+}
+
+form div {
+  margin-bottom: 20px;
+}
+
+input,
+textarea {
+  border: none;
+  border-radius: 15px;
+  padding: 20px;
+}
+
+button {
+  text-align: center;
+  font-size: 25px;
+  border: none;
+  border-radius: 15px;
+  padding: 15px;
+}
+
+button:hover {
+  color: white;
+  background-color: lightblue;
+}

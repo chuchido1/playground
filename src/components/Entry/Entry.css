@@ -1,0 +1,15 @@
+.entryWrapper {
+  width: 70%;
+  margin: 35px auto;
+  padding: 20px;
+  background-color: white;
+}
+
+h1,
+h5 {
+  margin: 0px;
+}
+
+p {
+  text-align: justify;
+}
